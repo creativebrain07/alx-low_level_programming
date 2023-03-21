@@ -1,0 +1,5 @@
+ign.c:17: ERROR: trailing whitespace
+total: 2 errors, 0 warnings, 29 lines checked
+print_signgn.c:17: ERROR: trailing whitespace
+total: 2 errors, 0 warnings, 29 lines checked
+print_sign
